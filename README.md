@@ -1,2 +1,2 @@
-# arkit-horizontal-plane-demo
-Demo created based on "ARKit Tutorial: Detecting Horizontal Planes and Adding 3D Objects with SceneKit" APPCODA's article
+# ARKitHorizontalPlane Demo
+Demo created based on [ARKit Tutorial: Detecting Horizontal Planes and Adding 3D Objects with SceneKit](https://www.appcoda.com/arkit-horizontal-plane/) APPCODA's article
